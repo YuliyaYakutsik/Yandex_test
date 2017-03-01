@@ -1,0 +1,16 @@
+.sidebar{
+	opacity: 0;
+	width: 0;
+	padding: 0;
+	border: none;
+	-webkit-transition: 250ms ease;
+	-o-transition: 250ms ease;
+	transition: 250ms ease;
+}
+
+.content{
+	margin-right: 0;
+	-webkit-transition: 250ms ease;
+	-o-transition: 250ms ease;
+	transition: 250ms ease;
+}
